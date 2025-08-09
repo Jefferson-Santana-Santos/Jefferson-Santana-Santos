@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Santana-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/jefferson-santana-dos-santos-bb343a304)
+[![LinkedIn](www.linkedin.com/in/jefferson-santana-dos-santos-bb343a304)
 
 
 ---
