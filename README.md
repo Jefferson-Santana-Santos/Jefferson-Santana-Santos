@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Jefferson Santana
 
 💻 **Aspirante a Programador Back-End & CICS Programmer**  
-🎓 Cursando Análise e Desenvolvimento de Sistemas  
+🎓 Cursando Análise e Desenvolvimento de Sistemas , formado em Biomedicina e especialista em Hematologia.
 ⚙️ Experiência com **z/OS, Unix, JCL, REXX**  
 📚 Pós-graduado em **IBM High Platform**  
 🚀 Apaixonado por tecnologia, automação e sistemas mainframe.
