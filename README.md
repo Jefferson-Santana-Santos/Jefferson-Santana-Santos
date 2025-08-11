@@ -8,7 +8,7 @@ Possuo pós-graduação em IBM High Platform e sou apaixonado por tecnologia,for
 💻 **Aspirante a Programador Back-End & CICS Programmer**  
 🎓 Cursando Análise e Desenvolvimento de Sistemas
 ⚙️ Experiência com **z/OS, Unix, JCL, REXX**  
-📚 Pós-graduado em **IBM High Platform**  
+📚 Pós-graduado em **IBM High Platform Mainframe**  
 🚀 Apaixonado por tecnologia, automação e sistemas mainframe.
 
 ---
